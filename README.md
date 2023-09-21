@@ -1,10 +1,16 @@
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+# About Me
+
+Hello,
+
+My name is Guilherme Facini, and I'm an 18-year-old student currently pursuing a degree in Computer Science. I have always been passionate about technology, especially in the field of programming.
+
+## Current Focus
+
+Currently, I am studying how web systems work using Java and Spring Boot as my primary programming language.
+
+Feel free to reach out if you have any questions or want to connect!
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=guilhermefacin1)
 
