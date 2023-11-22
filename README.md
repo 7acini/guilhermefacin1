@@ -6,7 +6,7 @@ My name is Guilherme Facini, and I'm an 18-year-old student currently pursuing a
 
 ## Current Focus
 
-Currently, I am studying how web systems work using PHP and Laravel as my primary programming language.
+Currently, I am studying how web systems work using Java as my primary programming language.
 
 Feel free to reach out if you have any questions or want to connect!
 
