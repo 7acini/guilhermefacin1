@@ -1,14 +1,13 @@
-# About Me
+About Me
 
-Hello,
+Greetings!
 
-My name is Guilherme Facini, and I'm an 18-year-old student currently pursuing a degree in Computer Science. I have always been passionate about technology, especially in the field of programming.
+I'm Guilherme Facini, a dedicated 18-year-old Computer Science student with a fervent interest in the realm of cybersecurity, particularly Pentesting (Penetration Testing).
+Current Focus
 
-## Current Focus
+My current endeavors revolve around mastering the intricacies of cybersecurity, with a specific focus on Pentesting techniques and methodologies.
 
-Currently, I am studying how web systems work using Java as my primary programming language.
-
-Feel free to reach out if you have any questions or want to connect!
+Feel free to drop me a line if you have any inquiries or simply wish to connect!
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=guilhermefacin1)
 
