@@ -2,7 +2,7 @@
 
 Greetings!
 
-I'm Guilherme Facini, a dedicated 18-year-old Computer Science student with a fervent interest in the realm of cybersecurity, particularly Pentesting (Penetration Testing).
+I'm Guilherme Facini, a dedicated 19-year-old Computer Science student with a fervent interest in the realm of cybersecurity, particularly Pentesting (Penetration Testing).
 Current Focus
 
 ## My current
