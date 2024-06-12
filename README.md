@@ -16,7 +16,7 @@
     }
      ```
 
-- 📫 How to reach me: 📨 guilhermefacini.dev@gmail.com 
+- 📫 How to reach me: 📨 guilhermefacini.dev@outlook.com 
 - 👾 Nickname: **7acini**
 - ⚡ Fact: I like **ROCK** music 🤘🎸   
 Feel free to drop me a line if you have any inquiries or simply wish to connect!
